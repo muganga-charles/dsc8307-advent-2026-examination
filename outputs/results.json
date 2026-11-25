@@ -274,8 +274,8 @@
     },
     {
       "level": "order (multi-category)",
-      "antecedents": "sports_leisure",
-      "consequents": "health_beauty",
+      "antecedents": "health_beauty",
+      "consequents": "sports_leisure",
       "co_count": 14,
       "support": 0.0178,
       "confidence": 0.1944,
