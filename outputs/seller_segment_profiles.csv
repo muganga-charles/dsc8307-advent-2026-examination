@@ -1,0 +1,5 @@
+segment,segment_name,sellers,revenue_share,median_revenue,median_orders_per_month,median_item_price,median_active_months,median_categories,avg_review,late_rate,median_handling_days,after_limit_rate,freight_ratio,cancel_rate,repeat_share
+0,At-risk: slow/unreliable fulfilment,232,0.079,2147.695,2.0,104.221,9.443,2.0,3.589,0.137,5.042,0.402,0.181,0.018,0.011
+1,Small steady low-ticket sellers,556,0.041,723.1,2.069,53.779,5.846,2.0,4.256,0.042,1.286,0.047,0.257,0.004,0.006
+2,Niche premium-ticket sellers,620,0.27,3455.9,1.867,171.632,9.311,2.0,4.215,0.06,1.403,0.048,0.115,0.005,0.007
+3,Established high-volume sellers,358,0.61,10404.98,8.296,91.163,14.486,5.0,4.134,0.06,1.56,0.072,0.184,0.004,0.008
